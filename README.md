@@ -7,3 +7,4 @@ Things implemented
 -Links
 -Headings
 -Images
+-Basic CSS
